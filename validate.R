@@ -1,4 +1,4 @@
-setwd("C:/Users/Fredrik/Documents/Exploratory Data Analysis/Projects/Exploratory-Data-Analysis-Project-1")
+setwd("C:/Users/Fredrik/Documents/Exploratory Data Analysis/Projects/ExData_Plotting1")
 data_loaded=FALSE
 source('get_data.r')
 
